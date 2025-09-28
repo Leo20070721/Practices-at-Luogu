@@ -10,7 +10,7 @@
 
 周末将近满课，已经燃尽了（悲  
 这两天没怎么刷题，更多的是做一些杂项工作  
-[Learn GIt Branching](tps://learngitbranching.js.org/?demo=&locale=zh_CN)刷完了~~，突然发现git还挺好学的~~  
+[Learn GIt Branching](tps://learngitbranching.js.org/?demo=&locale=zh_CN) 刷完了~~，突然发现git还挺好学的~~  
 [CS自学指南](https://csdiy.wiki/) 大体看了一遍，好多课啊~~我能学完吗QAQ~~  
 HIT-TS22505	无人机摄像及应用 今天上午结课了，后续应该会有一篇结课报告要用Latex写，到时候新建个仓库存  
 HIT-CS22115 移动互联网应用开发实践 今天讲的主要是js数组的函数方法，DevStudio讲了一点如何打开（？）  
