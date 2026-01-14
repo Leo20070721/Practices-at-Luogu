@@ -11,13 +11,25 @@ const bool _QuickStream=true;
 const bool _FILE=false;
 const int  _TEST=0;
 //------------------------------------------
-
+int N,ans,sum;
 signed main(){
 	if(_QuickStream){_QuickStreamOpen();}
 	if(_FILE){
 		freopen(".in","r",stdin);
 		freopen(".out","w",stdout);
 	}
+	cin>>N;
+	while(N--){
+		int x,y;
+		cin>>x>>y;
+		if(x>=500 && y<500){
+			ans++;sum+=y;
+		}
+	}
+	
+	cout<<ans<<" "<<sum<<"\n";
 
 	return 0;
 }
+
+

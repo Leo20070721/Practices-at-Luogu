@@ -11,13 +11,18 @@ const bool _QuickStream=true;
 const bool _FILE=false;
 const int  _TEST=0;
 //------------------------------------------
-
+int x,y; 
 signed main(){
 	if(_QuickStream){_QuickStreamOpen();}
 	if(_FILE){
 		freopen(".in","r",stdin);
 		freopen(".out","w",stdout);
 	}
+	
+	cin>>x>>y;
+	cout<<min(x/3,y/2)<<"\n";
 
 	return 0;
 }
+
+

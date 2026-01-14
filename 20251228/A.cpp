@@ -4,12 +4,12 @@ using namespace std;
 //#define int long long
 inline void _QuickStreamOpen(){
 	ios::sync_with_stdio(false);
-    cin.tie(0);
-    cout.tie(0);
+	cin.tie(0);
+	cout.tie(0);
 }
 const bool _QuickStream=true;
 const bool _FILE=false;
-const int  _TEST=0;
+const signed _TEST=0;
 //------------------------------------------
 
 signed main(){
@@ -18,6 +18,9 @@ signed main(){
 		freopen(".in","r",stdin);
 		freopen(".out","w",stdout);
 	}
+	
+	cout<<"hello hit\n";
 
 	return 0;
 }
+
